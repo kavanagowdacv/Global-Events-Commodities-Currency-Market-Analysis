@@ -1,19 +1,17 @@
-# Outputs
+# Notebooks
 
-This folder contains all generated figures and tables.
+This folder contains the Jupyter/Kaggle notebook used for the complete analysis.
 
-Figures
+Notebook:
 
-- Brent Oil Trend
-- Gold Trend
-- Silver Trend
-- Commodity Comparison
-- Currency Market Share
-- Correlation Heatmap
+- Global_Events_Commodities_Currency_Market_Analysis.ipynb
 
-Tables
+The notebook includes:
 
-- Missing Values
-- Duplicate Records
-- Descriptive Statistics
-- Currency Rankings
+- Data loading
+- Data preprocessing
+- Exploratory Data Analysis
+- Visualizations
+- Commodity comparison
+- Currency market analysis
+- Business insights
